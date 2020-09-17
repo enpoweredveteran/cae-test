@@ -117,7 +117,7 @@ scripts that your application will require.
   exercise. We'd also prefer that you avoid AWS SAM. Your code must be written
   in plain Javascript and with JSON or Yaml for cloudformation templates.
   However, feel free to install any NPM packages you'd like as long as the
-  entire applicationn be deployed to the cloud with the command ``npm run
+  entire application can be deployed to the cloud with the command ``npm run
   deploy``“
 - The application should not require any other means to deploy it save for 
   creating a bucket named ``cae-test1-deployment-artifacts`` and then running 
